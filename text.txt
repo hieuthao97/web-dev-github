@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is my master commt!!
+=======
+This is my feature commt!!
+>>>>>>> feature
 
 this is my second commit!!
